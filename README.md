@@ -1,2 +1,2 @@
 # Relativity
-Escher Relativity in VR
+Escher's Impossible Staircases in VR
