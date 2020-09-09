@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sahar\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sahar\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Unity.-1075649759.00" t="ExcludeRecursive" />
+    <e p="D:\Relativity\Unity" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Escher" t="Include">
+          <e p="Maquette" t="Include">
+            <e p="ThirdParty" t="Include">
+              <e p="UniGLTF" t="Include">
+                <e p="Core" t="Include">
+                  <e p="JsonTool" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="IWriteStreamTest.cs" t="Include" />
+                      <e p="JsonParserTest.cs" t="Include" />
+                    </e>
+                    <e p="Extensions" t="Include">
+                      <e p="ArraySegmentExtensions.cs" t="Include" />
+                      <e p="ArraySegmentExtensions.Json.cs" t="Include" />
+                      <e p="ByteExtensions.cs" t="Include" />
+                      <e p="TypeExtensions.cs" t="Include" />
+                    </e>
+                    <e p="IJsonSerializable.cs" t="Include" />
+                    <e p="IStore.cs" t="Include" />
+                    <e p="JsonFormatter.cs" t="Include" />
+                    <e p="JsonParser.cs" t="Include" />
+                    <e p="JsonString.cs" t="Include" />
+                    <e p="StreamStore.cs" t="Include" />
+                    <e p="StringBuilderStore.cs" t="Include" />
+                    <e p="StringSegment.cs" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="gltfAssetPostprocessor.cs" t="Include" />
+                      <e p="ImporterMenu.cs" t="Include" />
+                      <e p="PrefabContext.cs" t="Include" />
+                    </e>
+                    <e p="Extensions" t="Include">
+                      <e p="ArrayExtensions.cs" t="Include" />
+                      <e p="glTFExtensions.cs" t="Include" />
+                      <e p="JsonParserExtensions.cs" t="Include" />
+                      <e p="UnityExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Format" t="Include">
+                      <e p="BytesBuffer.cs" t="Include" />
+                      <e p="glbTypes.cs" t="Include" />
+                      <e p="glEnum.cs" t="Include" />
+                      <e p="glTF.cs" t="Include" />
+                      <e p="glTFAnimation.cs" t="Include" />
+                      <e p="glTFAssets.cs" t="Include" />
+                      <e p="glTFBuffer.cs" t="Include" />
+                      <e p="glTFMaterial.cs" t="Include" />
+                      <e p="glTFMesh.cs" t="Include" />
+                      <e p="glTFNode.cs" t="Include" />
+                      <e p="glTFSkin.cs" t="Include" />
+                      <e p="glTFTexture.cs" t="Include" />
+                    </e>
+                    <e p="IO" t="Include">
+                      <e p="BytesReader.cs" t="Include" />
+                      <e p="glbImporter.cs" t="Include" />
+                      <e p="gltfExporter.cs" t="Include" />
+                      <e p="gltfImporter.cs" t="Include" />
+                      <e p="ImporterContext.cs" t="Include" />
+                      <e p="MeshWithMaterials.cs" t="Include" />
+                      <e p="TextureItem.cs" t="Include" />
+                      <e p="TriangleUtil.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Unity2017" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="Extensions" t="Include">
+                        <e p="AssetImportContextExtensions.cs" t="Include" />
+                      </e>
+                      <e p="glbScriptedImporter.cs" t="Include" />
+                      <e p="gltfScriptedImporter.cs" t="Include" />
+                      <e p="ScriptedImporterContext.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="UnityEditorAddon" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="MqAddonBuildPackage.cs" t="Include" />
+                  <e p="MqAddonFBXImporter.cs" t="Include" />
+                </e>
+                <e p="MqAddonUtility.cs" t="Include" />
+                <e p="MqAddonVersionManager.cs" t="Include" />
+                <e p="MqBrushAssetList.cs" t="Include" />
+                <e p="MqMaterialAssetList.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Entity" t="Include">
+                  <e p="MaquetteShader_Additive.shader" t="Include" />
+                  <e p="MaquetteShader_Additive_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_EdgesDark.shader" t="Include" />
+                  <e p="MaquetteShader_EdgesDark_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_EdgesLight.shader" t="Include" />
+                  <e p="MaquetteShader_EdgesLight_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_Fresnel.shader" t="Include" />
+                  <e p="MaquetteShader_Fresnel_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_Lit.shader" t="Include" />
+                  <e p="MaquetteShader_Lit_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_TranslucentLit.shader" t="Include" />
+                  <e p="MaquetteShader_TranslucentLit_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_TranslucentUnlit.shader" t="Include" />
+                  <e p="MaquetteShader_TranslucentUnlit_VertexColor.shader" t="Include" />
+                  <e p="MaquetteShader_Unlit.shader" t="Include" />
+                  <e p="MaquetteShader_Unlit_VertexColor.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Camera.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unity.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
